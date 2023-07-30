@@ -1,0 +1,23 @@
+#first-heading {
+  color: red;
+}
+.second-heading {
+  color: blue;
+  font-size: 30px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+h3 {
+  font-size: 50px;
+}
+style {
+  html,
+  body {
+    margin: 0;
+  }
+  .header {
+    width: 100%;
+    height: 100vh;
+    background-image: url(https://vnn-imgs-a1.vgcloud.vn/icdn.dantri.com.vn/2021/05/08/kimoanh-851-1620472406599.jpeg);
+    background-size: 100%;
+  }
+}
